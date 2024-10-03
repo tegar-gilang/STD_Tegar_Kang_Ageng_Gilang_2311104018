@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
     // input output
-    // cout << " saya lagi belajar c++ nih! "<<endl;
+    // cout << " Saya Sedang Belajar C++! "<<endl;
 
     // cin sama seperti input 
     // int inp;
